@@ -17,6 +17,7 @@ public class TestJpa_Query {
 		//TestJpa_Query.pageSQL();
 
 		TestJpa_Query.dmlSQL();
+		System.out.println("three");
 	}
 
 	//常见的查询操作

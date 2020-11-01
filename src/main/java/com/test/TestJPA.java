@@ -19,6 +19,7 @@ public class TestJPA {
 
 		TestJPA.query_all();
 		System.out.println("two");
+		System.out.println("three");
 	}
 
 	private static void insert() {
