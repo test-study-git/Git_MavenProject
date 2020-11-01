@@ -18,6 +18,7 @@ public class TestJPA {
 		//TestJPA.update();
 
 		TestJPA.query_all();
+		System.out.println("two");
 	}
 
 	private static void insert() {

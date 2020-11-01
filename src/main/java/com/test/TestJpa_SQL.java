@@ -15,6 +15,7 @@ public class TestJpa_SQL {
 		TestJpa_SQL.one();
 		//TestJpa_SQL.two();
 		System.out.println("one");
+		System.out.println("two");
 	}
 
 	private static void one() {
