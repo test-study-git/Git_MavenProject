@@ -12,8 +12,9 @@ import com.util.JpaUtil;
 public class TestJpa_SQL {
 	public static void main(String[] args) {
 		//正常情况下，一般都是使用jpql语句，只有jpql查询不了的情况，才会使用SQL语句。
-		//TestJpa_SQL.one();
-		TestJpa_SQL.two();
+		TestJpa_SQL.one();
+		//TestJpa_SQL.two();
+		System.out.println("one");
 	}
 
 	private static void one() {
